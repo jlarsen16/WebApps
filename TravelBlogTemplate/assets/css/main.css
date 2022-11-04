@@ -102,6 +102,10 @@ i{
     z-index: 999;
 }
 
+.headerPics{
+  width:33%
+}
+
 .navbar{
     display: flex;
     align-items: center;
